@@ -1,0 +1,14 @@
+D:\kittikeaw_1690701733\lab4\bin\Debug\net10.0\lab4.exe
+D:\kittikeaw_1690701733\lab4\bin\Debug\net10.0\lab4.deps.json
+D:\kittikeaw_1690701733\lab4\bin\Debug\net10.0\lab4.runtimeconfig.json
+D:\kittikeaw_1690701733\lab4\bin\Debug\net10.0\lab4.dll
+D:\kittikeaw_1690701733\lab4\bin\Debug\net10.0\lab4.pdb
+D:\kittikeaw_1690701733\lab4\obj\Debug\net10.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\kittikeaw_1690701733\lab4\obj\Debug\net10.0\lab4.AssemblyInfoInputs.cache
+D:\kittikeaw_1690701733\lab4\obj\Debug\net10.0\lab4.AssemblyInfo.cs
+D:\kittikeaw_1690701733\lab4\obj\Debug\net10.0\lab4.csproj.CoreCompileInputs.cache
+D:\kittikeaw_1690701733\lab4\obj\Debug\net10.0\lab4.dll
+D:\kittikeaw_1690701733\lab4\obj\Debug\net10.0\refint\lab4.dll
+D:\kittikeaw_1690701733\lab4\obj\Debug\net10.0\lab4.pdb
+D:\kittikeaw_1690701733\lab4\obj\Debug\net10.0\lab4.genruntimeconfig.cache
+D:\kittikeaw_1690701733\lab4\obj\Debug\net10.0\ref\lab4.dll
